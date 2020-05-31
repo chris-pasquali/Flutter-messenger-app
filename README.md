@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # chatify
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Flutter-messenger-app
+creating a messaging mobile app using Flutter and Firebase
+>>>>>>> 2bc38bb7fc111d9bc3f9d1b5096c553a83ce9101
